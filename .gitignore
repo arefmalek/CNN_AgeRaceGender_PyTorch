@@ -1,0 +1,8 @@
+# ignore the actual data file
+data/
+
+# my personal files that aren't needed to set up venv
+bin/
+lib/
+etc/
+share/
