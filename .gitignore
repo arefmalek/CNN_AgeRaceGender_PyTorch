@@ -2,7 +2,7 @@
 data/
 
 # my personal files that aren't needed to set up venv
-bin/
 lib/
 etc/
 share/
+__pycache__/
